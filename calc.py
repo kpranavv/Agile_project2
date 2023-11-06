@@ -9,7 +9,7 @@ class Calculator:
     A class for performing basic arithmetic operations.
     """
     print("Pranav pk")
-    print("Git & Git actions poject1")
+    print("Git & Git actions poject2")
 
     def add(self, x_value, y_value):
         """
