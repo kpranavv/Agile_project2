@@ -39,5 +39,6 @@ jobs:
         pytest calc.py
         python new.py
         python file.py
+        pytest ase.py
         
         
